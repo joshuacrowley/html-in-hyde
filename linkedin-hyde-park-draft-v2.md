@@ -6,19 +6,41 @@
 
 ---
 
+## Image placement & captions (paste guidance — not part of the article)
+
+| Image | Where it goes | Caption |
+| --- | --- | --- |
+| photo1 (dusk laptops + Anzac Memorial) | Cover image | Hyde Park at dusk — HTML Day 2026, Sydney edition. Laptops on picnic blankets under the Anzac Memorial. |
+| invite-kites.gif | Near the top, after the opening two paragraphs | Max's invitation page — every RSVP gets a kite on the grass. Watch the wind flip and the strings move. |
+| photo3 (group on lawn) | After "What actually happened" opens | Late light in Hyde Park — laptops out, demos starting, city glowing behind the trees. |
+| kite.gif (Josh's project) | Beside the paragraph about the gallery / what he made | The little kite scene I made that afternoon — wind, rope, and a stick figure who mostly refuses to behave. |
+| photo2 (sharing laptop) | Near the gallery paragraph | Sharing screens on the grass — half the fun was walking around and seeing what everyone else had cooked up. |
+
+---
+
 On Saturday I took my laptop to Hyde Park in Sydney and wrote HTML by hand.
 
 The event was HTML in Hyde #2, organised by Max Bo for HTML Day 2026. Picnic blankets on the grass near the Anzac Memorial, laptops everywhere, everyone tethering off phone hotspots. And the brief was about as simple as a brief gets: sit down with other people and write some HTML. That's it. Less a meetup, more a freewrite — nobody talking much about the web, everybody quietly making a little bit of it.
 
+*[Place invite-kites.gif here]*
+
+Big thanks to Max for running it, by the way. He's one of those people who quietly makes good things happen — he's also the one who introduced me to the Matcha Monday community, and I'm looking forward to seeing him again this week at the Cursor Sydney meetup. Links to both at the end if you're curious.
+
 Now, I write a lot of HTML. It's kind of my whole thing. But these days it's almost always with AI agents in the loop — I'm describing, the agent is typing, and the tags appear. So I'll be honest: sitting down to hand-code again felt a bit daunting. I hadn't done it properly in a while, and I genuinely wasn't sure how much was still in my hands.
 
 ## What actually happened
+
+*[Place photo3 here]*
 
 More than I expected, is the answer. I was surprised how much I remembered. I was equally surprised by how many old crutches I reached for. Stack Overflow. W3Schools. Chrome DevTools, nudging properties around until something looked right. At one point I wrote a `console.log` — which I haven't done in ages. Hello, old friend.
 
 And here's the thing I kept noticing while I sat there making mistakes: HTML was designed to be handwritten. You can typo a tag, forget to close something, and the browser doesn't throw its hands up — the document still does its best to render. There aren't many formats that generous. It's a very human material, and you feel that most when you're touching it directly.
 
 By the end of the afternoon we had a gallery. Games, little works of art, a hypothetical MySpace profile. Nothing polished — just what a bunch of people can make in a few hours with HTML, CSS, and a laptop on the grass. I had a blast.
+
+*[Place kite.gif here]*
+
+*[Place photo2 here]*
 
 ## The thing I'm still chewing on
 
@@ -45,4 +67,6 @@ If an HTML Day thing pops up near you, give it a crack. Or just open a blank fil
 - The Sydney gallery from the day: https://maxbo.me/html-in-hyde/2/gallery.html
 - My single-file HTML prototype habit: https://joshuacrowley.com/blog/html-tips
 - HTML Day: https://2026.html.energy/
+- Matcha Monday: https://www.matchamonday.net/
+- Cursor Sydney meetup: https://luma.com/yusy4erv
 - More on how I work: https://joshuacrowley.com/blog/day-in-the-life
